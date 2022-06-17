@@ -1,0 +1,1 @@
+O Trabalho da pokedex está MUITO incompleto, não consegui e consequentemente me senti incapaz de realiza-lo.
