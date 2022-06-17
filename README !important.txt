@@ -1,1 +1,5 @@
-O Trabalho da pokedex está MUITO incompleto, não consegui e consequentemente me senti incapaz de realiza-lo.
+O Trabalho da pokedex está BEM incompleto, pois após diversas tentativas não consegui realiza-lo.
+
+surge: victorious-bit.surge.sh
+
+https://github.com/Pedrofrch/POKEDEX
